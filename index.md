@@ -1,2 +1,5 @@
 # <h1> H1 Header
 Added a h1 header to the index.md file
+
+# <h1> Add Image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
